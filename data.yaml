@@ -1,0 +1,6 @@
+path: C:\Users\iamhe\OneDrive\Desktop\PROIECT_IA_SEM2.1/yolo_dataset
+train: images/train
+val: images/val
+
+names:
+  0: cancer_pancreatic
